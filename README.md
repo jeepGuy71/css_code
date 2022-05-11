@@ -1,2 +1,2 @@
 # css_code
-css samples
+css code samples
